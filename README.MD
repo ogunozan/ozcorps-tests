@@ -1,0 +1,15 @@
+# ozcorps-tests
+
+tests and samples reposiyory for ozcorps packages
+
+=> ozcorps.core: https://www.nuget.org/packages/Ozcorps.Core
+  => v3.0.0
+    => net7.0
+    => dependencies:
+      => Microsoft.Extensions.Configuration (>= 7.0.0)
+      => Microsoft.Extensions.Configuration.Binder (>= 7.0.4)
+      => Microsoft.Extensions.Options (>= 7.0.1)
+      => Nest (>= 7.17.5)
+      => NetTopologySuite (>= 2.5.0)
+      => Ozcorps.DynamicLinq (>= 1.2.1)
+      => ProjNet (>= 2.0.0)
