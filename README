@@ -13,6 +13,19 @@ tests and samples repository for ozcorps packages
       => NetTopologySuite (>= 2.5.0)
       => Ozcorps.DynamicLinq (>= 1.2.1)
       => ProjNet (>= 2.0.0)
+  => v3.0.1
+    => net7.0
+    => dependencies:
+      => Microsoft.Extensions.Configuration.Binder (>= 7.0.4)
+      => Microsoft.Extensions.Options (>= 7.0.1)
+      => Nest (>= 7.17.5)
+      => NetTopologySuite (>= 2.5.0)
+      => Ozcorps.DynamicLinq (>= 1.2.1)
+      => ProjNet (>= 2.0.0)
+    => change log:
+      => Md5Encryptor
+          => added optional md5 key parameter to constructor.
+      => Microsoft.Extensions.Configuration package has been removed from dependencies.
 
 => ozcorps.tools: https://www.nuget.org/packages/Ozcorps.Tools
   => v1.0.0
