@@ -39,7 +39,7 @@ tests and samples repository for ozcorps packages
       => RabbitMQ.Client (>= 6.5.0)
       => System.DirectoryServices.AccountManagement (>= 7.0.0)
     => change-logs:
-      => following packages has ben removed.
+      => following packages have ben removed.
         => Microsoft.Extensions.Configuration
         => Nest
         => NetTopologySuite
