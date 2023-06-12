@@ -60,3 +60,10 @@ tests and samples repository for ozcorps packages
         => ProjNet (>= 2.0.0)
         => RabbitMQ.Client (>= 6.5.0)
         => System.DirectoryServices.AccountManagement (>= 7.0.0)
+
+=> ozcorps.ozt: https://www.nuget.org/packages/Ozcorps.Ozt
+  => v2.0.0
+    => net7.0
+    => dependencies:
+      => Ozcorps.Core (>= 3.0.1)
+      => Swashbuckle.AspNetCore (>= 6.4.0)
