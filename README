@@ -67,3 +67,19 @@ tests and samples repository for ozcorps packages
     => dependencies:
       => Ozcorps.Core (>= 3.0.1)
       => Swashbuckle.AspNetCore (>= 6.4.0)
+
+=> ozcorps.logger: https://www.nuget.org/packages/Ozcorps.Logger
+  => v2.0.0
+    => net7.0
+    => dependencies:
+      => Microsoft.AspNetCore.Mvc (>= 2.2.0)
+      => Ozcorps.Core (>= 3.0.1)
+      => Ozcorps.Tools (>= 1.0.1)
+
+=> ozcorps.logger.db.postgre: https://www.nuget.org/packages/Ozcorps.Logger.Db.Postgre
+  => v2.0.0
+    => net7.0
+    => dependencies:
+      => Microsoft.EntityFrameworkCore (>= 7.0.7)
+      => Npgsql.EntityFrameworkCore.PostgreSQL (>= 7.0.4)
+      => Ozcorps.Logger (>= 2.0.0)
