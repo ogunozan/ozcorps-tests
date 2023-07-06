@@ -83,3 +83,11 @@ tests and samples repository for ozcorps packages
       => Microsoft.EntityFrameworkCore (>= 7.0.7)
       => Npgsql.EntityFrameworkCore.PostgreSQL (>= 7.0.4)
       => Ozcorps.Logger (>= 2.0.0)
+
+=> ozcorps.generic: https://www.nuget.org/packages/Ozcorps.Generic
+  => v2.0.0
+    => net7.0
+    => dependencies:
+      => Microsoft.EntityFrameworkCore.Relational (>= 7.0.5)
+      => Ozcorps.Logger (>= 2.0.0)
+      => Ozcorps.Ozt (>= 2.0.0)
